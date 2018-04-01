@@ -78,6 +78,7 @@ INSTALLED_APPS = (
     'bootstrap3',
     'autofixture',
     'webpack_loader',
+    'rest_framework',
 )
 
 MIDDLEWARE_CLASSES = (
